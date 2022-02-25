@@ -4,7 +4,7 @@
     [Дмитрий Лихолетов](https://github.com/Mayday2020)  
     [Игорь Иванов](https://github.com/sweetereater)  
     [Кирилл Чирков](https://github.com/21Kaen)  
-    
+Deployed: https://spotify-killer.vercel.app/
 ## Запуск
 1. git clone git@github.com:sweetereater/23-finalBoss.git
 2. npm install
