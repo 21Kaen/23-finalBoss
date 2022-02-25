@@ -6,6 +6,9 @@
     [Кирилл Чирков](https://github.com/21Kaen)  
 Deployed: https://spotify-killer.vercel.app/
 ## Запуск
+
+Приложение: https://spotify-killer.vercel.app/
+
 1. git clone git@github.com:sweetereater/23-finalBoss.git
 2. npm install
 3. В корне приложения создайте файл .env.local.  
